@@ -1,5 +1,11 @@
-## Hi there 👋
-# Hi, I'm Aayush! 👋
+## Hi there, I'm Aayush! 👋 SEE This Snake Eating My Contribution 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AayuAmor/AayuAmor/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AayuAmor/AayuAmor/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AayuAmor/AayuAmor/output/github-contribution-grid-snake.svg">
+</picture>
+
+# This is ME 🔆👋
 
 ## 🏆 GitHub Achievements
 ![Pull Shark](https://img.shields.io/badge/GitHub-Pull_Shark-2ea44f)
@@ -17,8 +23,4 @@
 | [Python Scripts](/) | Daily automation tools | Galaxy Brain |
 
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AayuAmor/AayuAmor/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AayuAmor/AayuAmor/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AayuAmor/AayuAmor/output/github-contribution-grid-snake.svg">
-</picture>
+
