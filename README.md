@@ -3,7 +3,7 @@
 
 ## 🏆 GitHub Achievements
 ![Pull Shark](https://img.shields.io/badge/GitHub-Pull_Shark-2ea44f)
-![Quickdraw](https://img.shields.io/badge/GitHub-Quickdraw-yellow) (Coming soon!)
+![Quickdraw](https://img.shields.io/badge/GitHub-Quickdraw-yellow) *(Coming soon!)*
 
 ## 🔥 Current Goals
 - [x] Unlock Pull Shark (Apr 10, 2024)
