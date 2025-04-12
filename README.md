@@ -40,8 +40,11 @@ _🚧 Coming soon!_
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AayuAmor&theme=tokyonight&hide_border=true)
 
 ---
+## 🧠 Motto
 
-> 🧠 "Code like it's art, debug like a detective, and push like a boss." – Aayush Dada 😎
+> ### 💬 *"Code like it's art, debug like a detective, and push like a boss."*  
+> — **Aayush Dada 😎**
+
 
 ## 🚀 My Projects
 |       Project       |      Description       | Badge Target |
