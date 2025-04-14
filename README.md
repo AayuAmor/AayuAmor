@@ -22,6 +22,8 @@
 ![Pull Shark](https://img.shields.io/badge/GitHub-Pull_Shark-2ea44f)
 ![Quickdraw](https://img.shields.io/badge/GitHub-Quickdraw-yellow)
 ![Galaxy Brain](https://img.shields.io/badge/GitHub-Galaxy_Brain-blueviolet)
+![YOLO](https://img.shields.io/badge/GitHub-YOLO-ff69b4)
+
 
 _🚧 Coming soon!_
 > _More on the way..._
