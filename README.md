@@ -19,10 +19,12 @@
 - ⚡ Fun fact: I can debug with my eyes closed (okay, almost 😅)
 
 ## 🏆 GitHub Achievements
-![Pull Shark](https://img.shields.io/badge/GitHub-Pull_Shark-2ea44f)
-![Quickdraw](https://img.shields.io/badge/GitHub-Quickdraw-yellow)
-![Galaxy Brain](https://img.shields.io/badge/GitHub-Galaxy_Brain-blueviolet)
-![YOLO](https://img.shields.io/badge/GitHub-YOLO-ff69b4)
+
+![Pull Shark](https://img.shields.io/badge/Pull%20Shark-2ea44f?style=for-the-badge&logo=github)
+![Quickdraw](https://img.shields.io/badge/Quickdraw-ffcc00?style=for-the-badge&logo=github)
+![Galaxy Brain](https://img.shields.io/badge/Galaxy%20Brain-8a2be2?style=for-the-badge&logo=github)
+![YOLO](https://img.shields.io/badge/YOLO-ff69b4?style=for-the-badge&logo=github)
+
 
 
 _🚧 Coming soon!_
