@@ -20,13 +20,15 @@
 
 ## 🏆 GitHub Achievements
 ![Pull Shark](https://img.shields.io/badge/GitHub-Pull_Shark-2ea44f)
-![Quickdraw](https://img.shields.io/badge/GitHub-Quickdraw-yellow)  
+![Quickdraw](https://img.shields.io/badge/GitHub-Quickdraw-yellow)
+![Galaxy Brain](https://img.shields.io/badge/GitHub-Galaxy_Brain-blueviolet)
+
 _🚧 Coming soon!_
 > _More on the way..._
 
 ## 🔥 Current Goals
 - [x] Unlock Pull Shark (Apr 10, 2024)
-- [ ] Close 1 issue in <5 mins (Quickdraw)
+- [x] Close 1 issue in <5 mins (Quickdraw)
 - [ ] Get 16 stars on a repo (Starstruck)
 - [ ] Contribute to an open-source project
 - [ ] Make 100 contributions in a month
