@@ -10,6 +10,20 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AayuAmor/AayuAmor/output/github-contribution-grid-snake.svg">
 </picture>
 
+<p align="center">
+  <strong>📊 My GitHub Universe in 3D</strong>
+</p>
+
+<p align="center">
+  <img src="./profile-3d-contrib/profile-night-green.svg" alt="3D GitHub Contribution Graph" />
+</p>
+
+<blockquote>
+  🧱 Every green block tells a story — from late-night commits to early-morning pushes.
+</blockquote>
+
+<hr />
+
 ## 🔆 This is ME
 
 - 🎓 Software Engineer in the making
