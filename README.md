@@ -15,11 +15,11 @@
 </p>
 
 <p align="center">
-  <img src="./profile-3d-contrib/profile-night-green.svg" alt="3D GitHub Contribution Graph" />
+    <img src="./profile-3d-contrib/dark-south-season.svg" alt="3D GitHub Contribution Graph" />
 </p>
 
 <blockquote>
-  🧱 Every green block tells a story — from late-night commits to early-morning pushes.
+  🧱 Every block tells a story — from late-night commits to early-morning pushes.
 </blockquote>
 
 <hr />
