@@ -14,9 +14,7 @@
   <strong>📊 My GitHub Universe in 3D</strong>
 </p>
 
-<p align="center">
-    <img src="./profile-3d-contrib/dark-south-season.svg" alt="3D GitHub Contribution Graph" />
-</p>
+![](./profile-3d-contrib/profile-season-animate.svg)
 
 <blockquote>
   🧱 Every block tells a story — from late-night commits to early-morning pushes.
