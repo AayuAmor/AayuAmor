@@ -43,10 +43,10 @@ _🚧 Coming soon!_
 > _More on the way..._
 
 ## 🔥 Current Goals
-- [x] Unlock Pull Shark (Apr 10, 2024)
+- [x] Unlock Pull Shark (Apr 10, 2025)
 - [x] Close 1 issue in <5 mins (Quickdraw)
 - [ ] Get 16 stars on a repo (Starstruck)
-- [ ] Contribute to an open-source project
+- [x] Contribute to an open-source project
 - [ ] Make 100 contributions in a month
 
 ## 📊 My GitHub Stats
