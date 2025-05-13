@@ -51,11 +51,15 @@ _🚧 Coming soon!_
 
 ## 📊 My GitHub Stats
 
-![Aayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=AayuAmor&show_icons=true&theme=tokyonight)
+![Aayush's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AayuAmor&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AayuAmor&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AayuAmor&layout=compact&theme=tokyonight&hide_border=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AayuAmor&theme=tokyonight&hide_border=true)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=AayuAmor&theme=tokyonight&no-frame=true)
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AayuAmor&theme=tokyo-night&hide_border=true)
+
+
 
 ---
 ## 🧠 Motto
