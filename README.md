@@ -55,8 +55,6 @@ _🚧 Coming soon!_
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AayuAmor&layout=compact&theme=tokyonight&hide_border=true)
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=AayuAmor&theme=tokyonight&no-frame=true)
-
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AayuAmor&theme=tokyo-night&hide_border=true)
 
 
