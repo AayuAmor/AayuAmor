@@ -14,7 +14,7 @@
   <strong>📊 My GitHub Universe in 3D</strong>
 </p>
 
-![](./profile-3d-contrib/profile-season-animate.svg)
+![](./profile-3d-contrib/profile-night-green.svg)
 
 <blockquote>
   🧱 Every block tells a story — from late-night commits to early-morning pushes.
@@ -55,7 +55,7 @@ _🚧 Coming soon!_
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AayuAmor&layout=compact&theme=tokyonight&hide_border=true)
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AayuAmor&theme=tokyo-night&hide_border=true)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AayuAmor&theme=tokyo-night&bg_color=none&area=true&hide_border=true)
 
 
 
