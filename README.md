@@ -51,9 +51,9 @@ _🚧 Coming soon!_
 
 ## 📊 My GitHub Stats
 
-![Aayush's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AayuAmor&show_icons=true&theme=tokyonight&hide_border=true)
+![Aayush's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AayuAmor&show_icons=true&theme=tokyonight&bg_color=none&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AayuAmor&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AayuAmor&layout=compact&theme=tokyonight&bg_color=none&hide_border=true)
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AayuAmor&theme=tokyo-night&bg_color=none&area=true&hide_border=true)
 
