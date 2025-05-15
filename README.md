@@ -51,17 +51,20 @@ _🚧 Coming soon!_
 
 ## 📊 My GitHub Stats
 
+<h2 align="center">📊 My GitHub Stats</h2>
+
 <!-- Dark Mode -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AayuAmor&show_icons=true&theme=tokyonight&bg_color=none&hide_border=true" class="gh-dark-mode-only" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AayuAmor&layout=compact&theme=tokyonight&bg_color=none&hide_border=true" class="gh-dark-mode-only" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AayuAmor&show_icons=true&theme=tokyonight&bg_color=00000000&hide_border=true" class="gh-dark-mode-only" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AayuAmor&layout=compact&theme=tokyonight&bg_color=00000000&hide_border=true" class="gh-dark-mode-only" />
+</div>
 
 <!-- Light Mode -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AayuAmor&show_icons=true&theme=default&bg_color=none&hide_border=true" class="gh-light-mode-only" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AayuAmor&layout=compact&theme=default&bg_color=none&hide_border=true" class="gh-light-mode-only" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AayuAmor&show_icons=true&theme=default&bg_color=00000000&hide_border=true" class="gh-light-mode-only" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AayuAmor&layout=compact&theme=default&bg_color=00000000&hide_border=true" class="gh-light-mode-only" />
+</div>
+
 
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AayuAmor&theme=tokyo-night&bg_color=none&area=true&hide_border=true)
