@@ -59,11 +59,7 @@ _🚧 Coming soon!_
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AayuAmor&layout=compact&theme=tokyonight&bg_color=00000000&hide_border=true" class="gh-dark-mode-only" />
 </div>
 
-<!-- Light Mode -->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AayuAmor&show_icons=true&theme=default&bg_color=00000000&hide_border=true" class="gh-light-mode-only" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AayuAmor&layout=compact&theme=default&bg_color=00000000&hide_border=true" class="gh-light-mode-only" />
-</div>
+
 
 
 
