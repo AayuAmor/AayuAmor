@@ -55,12 +55,9 @@ _🚧 Coming soon!_
 
 <!-- Dark Mode -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AayuAmor&show_icons=true&theme=tokyonight&bg_color=00000000&hide_border=true" class="gh-dark-mode-only" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AayuAmor&layout=compact&theme=tokyonight&bg_color=00000000&hide_border=true" class="gh-dark-mode-only" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AayuAmor&show_icons=true&theme=tokyonight&bg_color=00000000&hide_border=true&cache_seconds=21600" class="gh-dark-mode-only" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AayuAmor&layout=compact&theme=tokyonight&bg_color=00000000&hide_border=true&cache_seconds=21600" class="gh-dark-mode-only" />
 </div>
-
-
-
 
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AayuAmor&theme=tokyo-night&bg_color=none&area=true&hide_border=true)
