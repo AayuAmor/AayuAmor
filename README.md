@@ -1,6 +1,6 @@
 <h1 align="center">Hey there, I'm Aayush 👋</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Problem+Solver;Software-Engineering+Student;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Problem+Solver;Tech+Enthusiast;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -22,13 +22,13 @@
 
 ![](./profile-3d-contrib/profile-night-green.svg)
 
-<blockquote>
+<blockquote align="center">
   🧱 Every block tells a story — from late-night commits to breakthrough moments.
 </blockquote>
 
-<hr />
+---
 
-## 🔆 About Me
+<h2 align="center">🔆 About Me</h2>
 
 <details>
 <summary>👨‍💻 console.log(aayush) - Click to expand</summary>
@@ -151,7 +151,9 @@ console.log(`
 
 </details>
 
-## 💼 Professional Experience
+---
+
+<h2 align="center">💼 Professional Experience</h2>
 
 <details>
 <summary>🏢 Work & Education Timeline (Click to expand)</summary>
@@ -227,7 +229,9 @@ const experience = {
 
 </details>
 
-## 🛠️ Tech Stack
+---
+
+<h2 align="center">🛠️ Tech Stack</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
@@ -240,7 +244,9 @@ const experience = {
   <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </p>
 
-## 🎓 Skills & Certifications
+---
+
+<h2 align="center">🎓 Skills & Certifications</h2>
 
 <details>
 <summary>📚 Detailed Skills Breakdown (Click to expand)</summary>
@@ -271,7 +277,9 @@ const experience = {
 
 </details>
 
-## 🏆 GitHub Achievements
+---
+
+<h2 align="center">🏆 GitHub Achievements</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Pull%20Shark-2ea44f?style=for-the-badge&logo=github&logoColor=white"/>
@@ -281,8 +289,9 @@ const experience = {
   <img src="https://img.shields.io/badge/Pair%20Extraordinary-00ff99?style=for-the-badge&logo=github&logoColor=black"/>
 </p>
 
+---
 
-## 🎯 Current Goals & Roadmap
+<h2 align="center">🎯 Current Goals & Roadmap</h2>
 
 <details>
 <summary>📈 2025 Goals (Click to expand)</summary>
@@ -309,7 +318,7 @@ const experience = {
 
 </details>
 
-<hr>
+---
 
 <h2 align="center">📊 GitHub Analytics</h2>
 
@@ -375,7 +384,11 @@ const experience = {
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AayuAmor&theme=github_dark&bg_color=00000000&area=true&hide_border=true)
 
-## 🚀 Featured Projects
+---
+
+<h2 align="center">🚀 Featured Projects</h2>
+
+<div align="center">
 
 <table>
 <tr>
@@ -391,10 +404,12 @@ const experience = {
 - 📊 Progress Tracking
 - 🎮 Mini Games for breaks
 
-**Tech Stack:** React, Node.js, MongoDB  
+**Tech Stack:** React, Node.js, MongoDB
+
 <!-- [![Live Demo](https://img.shields.io/badge/Live-Demo-blue?style=flat-square)](your-link) -->
- [![GitHub](https://img.shields.io/badge/GitHub-Repo-black?style=flat-square)](your-repo) 
- [![Coming Soon](https://img.shields.io/badge/Status-In%20Development-yellow?style=flat-square)](your-link)
+
+[![GitHub](https://img.shields.io/badge/GitHub-Repo-black?style=flat-square)](your-repo)
+[![Coming Soon](https://img.shields.io/badge/Status-In%20Development-yellow?style=flat-square)](your-link)
 
 </td>
 <td width="50%">
@@ -408,9 +423,11 @@ const experience = {
 - 🧱 Brick Breaker
 - 🎯 Score tracking & leaderboards
 
-**Tech Stack:** React, JavaScript, CSS3  
+**Tech Stack:** React, JavaScript, CSS3
+
 <!-- [![Live Demo](https://img.shields.io/badge/Live-Demo-blue?style=flat-square)](your-link) -->
-[![GitHub](https://img.shields.io/badge/GitHub-Repo-black?style=flat-square)](your-repo) 
+
+[![GitHub](https://img.shields.io/badge/GitHub-Repo-black?style=flat-square)](your-repo)
 [![Coming Soon](https://img.shields.io/badge/Status-In%20Development-yellow?style=flat-square)](your-link)
 
 </td>
@@ -452,7 +469,11 @@ const experience = {
 </tr>
 </table>
 
-## 📫 Let's Connect
+</div>
+
+---
+
+<h2 align="center">📫 Let's Connect</h2>
 
 <p align="center">
   <a href="mailto:aayuamor@gmail.com">
@@ -469,7 +490,9 @@ const experience = {
   </a>
 </p>
 
-## 💭 Dev Quotes
+---
+
+<h2 align="center">💭 Dev Quotes</h2>
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
