@@ -485,7 +485,10 @@ const experience = {
   <a href="https://twitter.com/AayuAmor">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
   </a>
-  <a href="https://yourportfolio.com">
+  <a href="https://instagram.com/a4yush.dev">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://aayuamor.github.io/My-Portfolio/">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=web&logoColor=white"/>
   </a>
 </p>
@@ -499,6 +502,12 @@ const experience = {
 </p>
 
 ---
+
+<p align="center">
+  <a href="https://aayuamor.github.io/My-Portfolio/">
+    <img src="https://img.shields.io/badge/🚀_Visit_My_Portfolio-FF5722?style=for-the-badge&logoColor=white"/>
+  </a>
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=AayuAmor&label=Profile%20Views&color=brightgreen&style=flat-square" alt="Profile Views"/>
