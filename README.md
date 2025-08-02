@@ -511,10 +511,7 @@ const experience = {
   </a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AayuAmor&label=Profile%20Views&color=brightgreen&style=flat-square" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/followers/AayuAmor?label=Followers&style=flat-square&color=blue" alt="GitHub Followers"/>
-</p>
+
 
 <p align="center">
   <strong>💬 "Code like it's art, debug like a detective, and push like a boss."</strong><br>
