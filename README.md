@@ -408,8 +408,10 @@ const experience = {
 
 <!-- [![Live Demo](https://img.shields.io/badge/Live-Demo-blue?style=flat-square)](your-link) -->
 
-[![GitHub](https://img.shields.io/badge/GitHub-Repo-black?style=flat-square)](https://aayuamor.github.io/StudentApp/index.html)
-[![Coming Soon](https://img.shields.io/badge/Status-In%20Development-yellow?style=flat-square)](your-link)
+[![GitHub](https://img.shields.io/badge/GitHub-Repo-black?style=flat-square)](https://github.com/AayuAmor/StudentApp)
+[![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=flat-square)](https://aayuamor.github.io/StudentApp/index.html)
+
+
 
 </td>
 <td width="50%">
