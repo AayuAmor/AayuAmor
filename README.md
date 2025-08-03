@@ -20,7 +20,11 @@
   <strong>📊 My GitHub Universe in 3D</strong>
 </p>
 
-![](./profile-3d-contrib/profile-night-green.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="profile-3d-contrib/profile-night-green.svg">
+  <source media="(prefers-color-scheme: light)" srcset="profile-3d-contrib/profile-green-animate.svg">
+  <img src="profile-3d-contrib/profile-gitblock.svg" alt="3D Contribution Graph" />
+</picture>
 
 <blockquote align="center">
   🧱 Every block tells a story — from late-night commits to breakthrough moments.
@@ -500,7 +504,11 @@ const experience = {
 <h2 align="center">💭 Dev Quotes</h2>
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical">
+    <source media="(prefers-color-scheme: light)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=default">
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=default" alt="Random Dev Quote"/>
+  </picture>
 </p>
 
 ---
