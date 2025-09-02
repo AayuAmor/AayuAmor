@@ -514,7 +514,7 @@ const experience = {
 ---
 
 <p align="center">
-  <a href="https://aayuamor.github.io/My-Portfolio/">
+  <a href="https://aayushkraut.com.np/">
     <img src="https://img.shields.io/badge/🚀_Visit_My_Portfolio-FF5722?style=for-the-badge&logoColor=white"/>
   </a>
 </p>
